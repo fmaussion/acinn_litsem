@@ -1,22 +1,10 @@
-.. acinn_litsem documentation master file, created by
-   sphinx-quickstart on Sun Mar  6 00:28:19 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Welcome to the webpage of the literature seminar in Glaciology & Climatology
+============================================================================
 
-Welcome to acinn_litsem's documentation!
-========================================
-
-Contents:
+Simple webpage for the participants of the literature seminar.
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 1
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    ss_2016
 

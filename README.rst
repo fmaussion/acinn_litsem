@@ -5,14 +5,14 @@
 Literature seminar ACINN
 ========================
 
-Simple web for the ACINN literature seminar in glaciology/climatology.
+Simple webpage for the ACINN literature seminar in glaciology/climatology.
 
 
 About
 -----
 
 :License:
-    GNU GPLv3
+    MIT
 
 :Author:
     Fabien Maussion - fabien.maussion@uibk.ac.at
