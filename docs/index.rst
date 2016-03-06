@@ -1,5 +1,5 @@
-Welcome to the webpage of the literature seminar in Glaciology & Climatology
-============================================================================
+Literature seminar in Glaciology & Climatology
+==============================================
 
 Simple webpage for the participants of the literature seminar.
 
