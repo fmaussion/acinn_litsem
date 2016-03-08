@@ -61,3 +61,11 @@ Paper checklist
 - Are the methods of statistical analysis and level of significance
   appropriate?
 
+
+Book recommendation
+-------------------
+
+I can warmly recommend the book by Joshua Schimel: *Writing Science: How to
+Write Papers That Get Cited and Proposals That Get Funded* (Oxford
+university press).
+
