@@ -21,7 +21,8 @@ me an `email`_ with your suggestions and I will update the paper list.
 In principle you can submit a paper about any topic, but you should pay
 attention to a couple of points:
 
-- the paper should not be too long (15 pages would be an upper limit)
+- the paper should not be too long (10 pages is good, 15 pages would be an
+  upper limit, with 20 pages the paper should be outstanding)
 - without being too simple, the paper should not be overly complicated or
   addressed to an expert audience.
 
@@ -31,7 +32,12 @@ attention to a couple of points:
 Selection of the next paper
 ---------------------------
 
-TBD
+The selection procedure for the following week will follow three steps:
+- voluntary basis (a student asks to present a paper): this should
+  happen on Tuesday.
+- democracy: if no paper is selected on Tuesday, I will ask people to
+  express their prefered paper by Thursday, and I will design the presenter.
+- tyranny: if nothing happens by Friday, I will design a paper and a presenter.
 
 
 Paper checklist

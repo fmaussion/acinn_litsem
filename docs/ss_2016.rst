@@ -1,6 +1,12 @@
 Papers SS 2016
 ==============
 
+You can download the PDFs of the papers by followink this `link`_
+(protected). You should have received the password by mail (if not, contact
+me).
+
+.. _link: https://www.dropbox.com/sh/z4e6cz5rgjnq1rb/AAB7YX-Y8sTwG_8UvitgIUNYa?dl=0
+
 
 Next paper
 ----------
