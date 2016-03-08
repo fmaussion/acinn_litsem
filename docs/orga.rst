@@ -20,6 +20,7 @@ me an `email`_ with your suggestions and I will update the paper list.
 
 In principle you can submit a paper about any topic, but you should pay
 attention to a couple of points:
+
 - the paper should not be too long (10 pages is good, 15 pages would be an
   upper limit, with 20 pages the paper should be outstanding)
 - without being too simple, the paper should not be overly complicated or
