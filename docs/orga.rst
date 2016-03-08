@@ -33,6 +33,7 @@ Selection of the next paper
 ---------------------------
 
 The selection procedure for the following week will follow three steps:
+
 - voluntary basis (a student asks to present a paper): this should
   happen on Tuesday.
 - democracy: if no paper is selected on Tuesday, I will ask people to
