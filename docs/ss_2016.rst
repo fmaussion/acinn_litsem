@@ -22,6 +22,9 @@ Glaciology, 56(70), 51–62.
 Suggested papers
 ----------------
 
+- Gutmann, E., Barstad, I., Clark, M., Arnold, J., & Rasmussen, R. (2016).
+  The Intermediate Complexity Atmospheric Research Model (ICAR). Journal of
+  Hydrometeorology, 17(3), 957–973. (Johannes)
 
 - Hoinkes, H. C. (1968). Glacier variation and weather.
   Journal of Glaciology, 7(49), 3–19. (Fabien)
