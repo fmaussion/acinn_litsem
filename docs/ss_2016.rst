@@ -33,9 +33,15 @@ Suggested papers
   all glaciers around the globe. Journal of Geophysical Research: Earth
   Surface, 117(4), F04010. (Fabien)
 
+- Mölg, T., & Kaser, G. (2011). A new approach to resolving
+  climate-cryosphere relations: Downscaling climate dynamics to glacier-scale
+  mass and energy balance without statistical scale linking. Journal of
+  Geophysical Research, 116(D16), D16101. (Federico)
+
 - Themeßl, M. J., Gobiet, A., & Heinrich, G. (2011). Empirical-statistical
   downscaling and error correction of regional climate models and its impact
   on the climate change signal. Climatic Change, 112(2), 449–468. (Fabien)
+
 
 
 Past papers
