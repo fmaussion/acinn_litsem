@@ -33,6 +33,10 @@ Suggested papers
   all glaciers around the globe. Journal of Geophysical Research: Earth
   Surface, 117(4), F04010. (Fabien)
 
+- Kerschner, H. (2000). Synoptic climatology of Eastern Alpine glacier
+  behavior, 1966-1990. 26th International Conference on Alpine Meteorology,
+  11-15 September 2000, (dd), 1–12. (Georg)
+
 - Mölg, T., & Kaser, G. (2011). A new approach to resolving
   climate-cryosphere relations: Downscaling climate dynamics to glacier-scale
   mass and energy balance without statistical scale linking. Journal of
