@@ -21,6 +21,9 @@ Hydrometeorology, 17(3), 957–973.
 Suggested papers
 ----------------
 
+- Deconto, R. M., & Pollard, D. (2016). Contribution of Antarctica to past
+  and future sea-level rise. Nature, 531(7596), 591–597. (Fabien)
+
 - Hoinkes, H. C. (1968). Glacier variation and weather.
   Journal of Glaciology, 7(49), 3–19. (Fabien)
 
