@@ -41,6 +41,11 @@ Suggested papers
   Precipitation variability over the period AD 1000–2100. Environ. Res. Lett,
   10(10), 84017–84017. (Fabien)
 
+- Pohl, S., Jakob Garvelmann, J., Wawerla, J., & Weiler, M. (2014). Potential
+  of a low-cost sensor network to understand the spatial and temporal
+  dynamics of amountain snow cover Stefan. Water Resour. Res., 2533–2550.
+  (Markus)
+
 - Themeßl, M. J., Gobiet, A., & Heinrich, G. (2011). Empirical-statistical
   downscaling and error correction of regional climate models and its impact
   on the climate change signal. Climatic Change, 112(2), 449–468. (Fabien)
