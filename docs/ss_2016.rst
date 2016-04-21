@@ -11,7 +11,11 @@ me).
 Next paper
 ----------
 
-TBD!
+On April 26 Markus will present the following paper::
+
+  Pohl, S., Garvelmann, J., Wawerla, J., & Weiler, M. (2014). Potential of a
+  low-cost sensor network to understand the spatial and temporal dynamics of a
+  mountain snow cover. Water Resources Research, 50(3), 2533–2550.
 
 
 Suggested papers
@@ -40,11 +44,6 @@ Suggested papers
   Morales, M. S. (2015). Facing unprecedented drying of the Central Andes?
   Precipitation variability over the period AD 1000–2100. Environ. Res. Lett,
   10(10), 84017–84017. (Fabien)
-
-- Pohl, S., Jakob Garvelmann, J., Wawerla, J., & Weiler, M. (2014). Potential
-  of a low-cost sensor network to understand the spatial and temporal
-  dynamics of amountain snow cover Stefan. Water Resour. Res., 2533–2550.
-  (Markus)
 
 - Themeßl, M. J., Gobiet, A., & Heinrich, G. (2011). Empirical-statistical
   downscaling and error correction of regional climate models and its impact
