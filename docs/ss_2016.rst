@@ -37,7 +37,7 @@ Suggested papers
 
 - Insel, N., Poulsen, C. J., & Ehlers, T. a. (2010). Influence of the Andes
   Mountains on South American moisture transport, convection, and
-  precipitation. Climate Dynamics, 35, 1477–1492. (Fabien)
+  precipitation. Climate Dynamics, 35, 1477–1492. (Georg)
 
 - Mölg, T., & Kaser, G. (2011). A new approach to resolving
   climate-cryosphere relations: Downscaling climate dynamics to glacier-scale
