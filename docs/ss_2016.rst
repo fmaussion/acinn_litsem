@@ -35,6 +35,10 @@ Suggested papers
   behavior, 1966-1990. 26th International Conference on Alpine Meteorology,
   11-15 September 2000, (dd), 1–12. (Georg)
 
+- Insel, N., Poulsen, C. J., & Ehlers, T. a. (2010). Influence of the Andes
+  Mountains on South American moisture transport, convection, and
+  precipitation. Climate Dynamics, 35, 1477–1492. (Fabien)
+
 - Mölg, T., & Kaser, G. (2011). A new approach to resolving
   climate-cryosphere relations: Downscaling climate dynamics to glacier-scale
   mass and energy balance without statistical scale linking. Journal of
