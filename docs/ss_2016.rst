@@ -1,7 +1,7 @@
 Papers SS 2016
 ==============
 
-warning::
+.. warning::
 
     The PDFs of the papers can be downloaded by followink this `link`_
     (password protected).
