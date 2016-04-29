@@ -31,13 +31,12 @@ Suggested papers
 - Hoinkes, H. C. (1968). Glacier variation and weather.
   Journal of Glaciology, 7(49), 3–19. (Fabien)
 
-- Huss, M., & Farinotti, D. (2012). Distributed ice thickness and volume of
-  all glaciers around the globe. Journal of Geophysical Research: Earth
-  Surface, 117(4), F04010. (Fabien)
-
 - Kerschner, H. (2000). Synoptic climatology of Eastern Alpine glacier
   behavior, 1966-1990. 26th International Conference on Alpine Meteorology,
   11-15 September 2000, (dd), 1–12. (Georg)
+
+- Farinotti, D., & Huss, M. (2013). An upper-bound estimate for the accuracy
+  of glacier volume-area scaling. Cryosphere, 7(6), 1707–1720. (Fabien)
 
 - Insel, N., Poulsen, C. J., & Ehlers, T. a. (2010). Influence of the Andes
   Mountains on South American moisture transport, convection, and
