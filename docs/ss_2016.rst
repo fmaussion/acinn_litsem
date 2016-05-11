@@ -14,10 +14,7 @@ You should have received the password by mail (if not, contact me).
 Next paper
 ----------
 
-On May 10th, we will discuss the following papers:
-
-- Nuzzo, R. (2015). Fooling Ourselves. Nature, 526, 182–185.
-- Knutti, R. (2010). The end of model democracy? Climatic Change, 102(3), 395–404.
+On May 17th, we will discuss the following paper:
 
 
 
@@ -41,6 +38,10 @@ Suggested papers
   Mountains on South American moisture transport, convection, and
   precipitation. Climate Dynamics, 35, 1477–1492. (Georg)
 
+- Mordret, A., Mikesell, T. D., Harig, C., Lipovsky, B. P., & Prieto, A. (2015).
+  Monitoring South-West Greenland ’ s ice sheet melt with ambient seismic noise.
+  Science Advances, (May), 1–11.
+
 - Mölg, T., & Kaser, G. (2011). A new approach to resolving
   climate-cryosphere relations: Downscaling climate dynamics to glacier-scale
   mass and energy balance without statistical scale linking. Journal of
@@ -60,7 +61,12 @@ Suggested papers
 Past papers
 -----------
 
-**2016-05-04 (Federico)**
+**2016-05-10 (All)**
+    Nuzzo, R. (2015). Fooling Ourselves. Nature, 526, 182–185.
+
+    Knutti, R. (2010). The end of model democracy? Climatic Change, 102(3), 395–404.
+
+**2016-05-03 (Federico)**
     Huss, M., Sold, L., Hoelzle, M., Stokvis, M., Salzmann, N., Farinotti, D.,
     & Zemp, M. (2013). Towards remote monitoring of sub-seasonal glacier mass
     balance. Annals of Glaciology, 54(63), 75–83.
