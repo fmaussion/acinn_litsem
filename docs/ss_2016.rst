@@ -14,8 +14,12 @@ You should have received the password by mail (if not, contact me).
 Next paper
 ----------
 
-On May 17th, we will discuss the following paper:
+On May 17th, Hannes will lead the discusssion about the following paper:
 
+- Neukom, R., Rohrer, M., Calanca, P., Salzmann, N., Huggel, C., Acuña, D.,
+  Morales, M. S. (2015). Facing unprecedented drying of the Central Andes?
+  Precipitation variability over the period AD 1000–2100. Environ. Res. Lett,
+  10(10), 84017–84017.
 
 
 Suggested papers
@@ -47,11 +51,6 @@ Suggested papers
   mass and energy balance without statistical scale linking. Journal of
   Geophysical Research, 116(D16), D16101. (Federico)
 
-- Neukom, R., Rohrer, M., Calanca, P., Salzmann, N., Huggel, C., Acuña, D.,
-  Morales, M. S. (2015). Facing unprecedented drying of the Central Andes?
-  Precipitation variability over the period AD 1000–2100. Environ. Res. Lett,
-  10(10), 84017–84017. (Fabien)
-
 - Themeßl, M. J., Gobiet, A., & Heinrich, G. (2011). Empirical-statistical
   downscaling and error correction of regional climate models and its impact
   on the climate change signal. Climatic Change, 112(2), 449–468. (Fabien)
@@ -63,7 +62,6 @@ Past papers
 
 **2016-05-10 (All)**
     Nuzzo, R. (2015). Fooling Ourselves. Nature, 526, 182–185.
-
     Knutti, R. (2010). The end of model democracy? Climatic Change, 102(3), 395–404.
 
 **2016-05-03 (Federico)**
