@@ -55,7 +55,10 @@ Suggested papers
   downscaling and error correction of regional climate models and its impact
   on the climate change signal. Climatic Change, 112(2), 449–468. (Fabien)
 
-
+- Wilks, D. S. (2016). “The stippling shows statistically significant
+  gridpoints”: How Research Results are Routinely Overstated and
+  Over-interpreted, and What to Do About It. Bulletin of the American
+  Meteorological Society, BAMS–D–15–00267.1. (Ben)
 
 Past papers
 -----------
