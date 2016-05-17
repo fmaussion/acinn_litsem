@@ -25,6 +25,9 @@ On May 17th, Hannes will lead the discusssion about the following paper:
 Suggested papers
 ----------------
 
+- Burke, E. E., & Roe, G. H. (2014). The absence of memory in the climatic
+  forcing of glaciers. Climate Dynamics, 42(5-6), 1335–1346. (Fabien)
+
 - Deconto, R. M., & Pollard, D. (2016). Contribution of Antarctica to past
   and future sea-level rise. Nature, 531(7596), 591–597. (Fabien)
 
@@ -44,12 +47,16 @@ Suggested papers
 
 - Mordret, A., Mikesell, T. D., Harig, C., Lipovsky, B. P., & Prieto, A. (2015).
   Monitoring South-West Greenland ’ s ice sheet melt with ambient seismic noise.
-  Science Advances, (May), 1–11.
+  Science Advances, (May), 1–11. (Markus)
 
 - Mölg, T., & Kaser, G. (2011). A new approach to resolving
   climate-cryosphere relations: Downscaling climate dynamics to glacier-scale
   mass and energy balance without statistical scale linking. Journal of
   Geophysical Research, 116(D16), D16101. (Federico)
+
+- Roe, G. H., Feldl, N., Armour, K. C., Hwang, Y.-T., &
+  Frierson, D. M. W. (2015). The remote impacts of climate feedbacks on
+  regional climate predictability. Nature Geoscience, 8(2), 135–139. (Fabien)
 
 - Themeßl, M. J., Gobiet, A., & Heinrich, G. (2011). Empirical-statistical
   downscaling and error correction of regional climate models and its impact
