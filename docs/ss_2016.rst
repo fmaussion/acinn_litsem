@@ -14,12 +14,17 @@ You should have received the password by mail (if not, contact me).
 Next paper
 ----------
 
-On May 17th, Hannes will lead the discusssion about the following paper:
+**On May 31st**, Eva will lead the discusssion about the following paper:
 
-- Neukom, R., Rohrer, M., Calanca, P., Salzmann, N., Huggel, C., Acuña, D.,
-  Morales, M. S. (2015). Facing unprecedented drying of the Central Andes?
-  Precipitation variability over the period AD 1000–2100. Environ. Res. Lett,
-  10(10), 84017–84017.
+- Deconto, R. M., & Pollard, D. (2016). Contribution of Antarctica to past
+  and future sea-level rise. Nature, 531(7596), 591–597.
+
+**On June 7th**, Anna will lead the discusssion about the following paper:
+
+- Rowan, A. V., Egholm, D. L., Quincey, D. J., & Glasser, N. F. (2015).
+  Modelling the feedbacks between mass balance, ice flow and debris transport
+  to predict the response to climate change of debris-covered glaciers in the
+  Himalaya. Earth and Planetary Science Letters, 430, 427–438.
 
 
 Suggested papers
@@ -40,6 +45,10 @@ Suggested papers
 
 - Farinotti, D., & Huss, M. (2013). An upper-bound estimate for the accuracy
   of glacier volume-area scaling. Cryosphere, 7(6), 1707–1720. (Fabien)
+
+- Farinotti, D., Pistocchi, A., & Huss, M. (2016). From dwindling ice to
+  headwater lakes: could dams replace glaciers in the European Alps?
+  Environmental Research Letters, 11(5), 054022. (Fabien)
 
 - Insel, N., Poulsen, C. J., & Ehlers, T. a. (2010). Influence of the Andes
   Mountains on South American moisture transport, convection, and
@@ -69,6 +78,12 @@ Suggested papers
 
 Past papers
 -----------
+
+**2016-05-17 (Hannes)**
+    Neukom, R., Rohrer, M., Calanca, P., Salzmann, N., Huggel, C., Acuña, D.,
+    Morales, M. S. (2015). Facing unprecedented drying of the Central Andes?
+    Precipitation variability over the period AD 1000–2100. Environ. Res. Lett,
+    10(10), 84017–84017.
 
 **2016-05-10 (All)**
     Nuzzo, R. (2015). Fooling Ourselves. Nature, 526, 182–185.
