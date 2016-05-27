@@ -50,9 +50,9 @@ Suggested papers
   headwater lakes: could dams replace glaciers in the European Alps?
   Environmental Research Letters, 11(5), 054022. (Fabien)
 
- - Hofer, M., Nemec, J., Cullen, N. J. & Weber, M. (Submitted). Evaluating
-   predictor strategies for regression-based downscaling with a focus on
-   glacierized mountain environments. Submitted to J. Climate. (Marlis)
+- Hofer, M., Nemec, J., Cullen, N. J. & Weber, M. (Submitted). Evaluating
+  predictor strategies for regression-based downscaling with a focus on
+  glacierized mountain environments. Submitted to J. Climate. (Marlis)
 
 - Insel, N., Poulsen, C. J., & Ehlers, T. a. (2010). Influence of the Andes
   Mountains on South American moisture transport, convection, and
