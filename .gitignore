@@ -1,0 +1,12 @@
+# PyCharm stuffs
+.idea/
+
+# specific
+*.html
+docs/*-gen.rst
+docs/_build
+docs/generated
+docs/_static
+docs/_sources
+docs/_images
+docs/.doctrees

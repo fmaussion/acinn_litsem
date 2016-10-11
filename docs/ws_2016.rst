@@ -1,0 +1,54 @@
+Papers WS 2016
+==============
+
+.. note::
+
+    The PDFs of the papers can be downloaded by followink this `link`_
+    (password protected).
+
+You should have received the password by mail (if not, contact me).
+
+.. _link: https://www.dropbox.com/sh/z4e6cz5rgjnq1rb/AAB7YX-Y8sTwG_8UvitgIUNYa?dl=0
+
+
+Next paper
+----------
+
+**Next meeting is on October 25th, and we need a volunteer!**
+
+
+Suggested papers
+----------------
+
+- Burke, E. E., & Roe, G. H. (2014). The absence of memory in the climatic
+  forcing of glaciers. Climate Dynamics, 42(5-6), 1335–1346. (Fabien)
+
+- Hoinkes, H. C. (1968). Glacier variation and weather.
+  Journal of Glaciology, 7(49), 3–19. (Fabien)
+
+- Kerschner, H. (2000). Synoptic climatology of Eastern Alpine glacier
+  behavior, 1966-1990. 26th International Conference on Alpine Meteorology,
+  11-15 September 2000, (dd), 1–12. (Georg)
+
+- Farinotti, D., & Huss, M. (2013). An upper-bound estimate for the accuracy
+  of glacier volume-area scaling. Cryosphere, 7(6), 1707–1720. (Fabien)
+
+- Insel, N., Poulsen, C. J., & Ehlers, T. a. (2010). Influence of the Andes
+  Mountains on South American moisture transport, convection, and
+  precipitation. Climate Dynamics, 35, 1477–1492. (Georg)
+
+- Roe, G. H., Feldl, N., Armour, K. C., Hwang, Y.-T., &
+  Frierson, D. M. W. (2015). The remote impacts of climate feedbacks on
+  regional climate predictability. Nature Geoscience, 8(2), 135–139. (Fabien)
+
+- Themeßl, M. J., Gobiet, A., & Heinrich, G. (2011). Empirical-statistical
+  downscaling and error correction of regional climate models and its impact
+  on the climate change signal. Climatic Change, 112(2), 449–468. (Fabien)
+
+- Wilks, D. S. (2016). “The stippling shows statistically significant
+  gridpoints”: How Research Results are Routinely Overstated and
+  Over-interpreted, and What to Do About It. Bulletin of the American
+  Meteorological Society, BAMS–D–15–00267.1. (Fabien)
+
+Past papers
+-----------

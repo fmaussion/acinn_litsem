@@ -1,21 +1,22 @@
 Organisation of the seminar
 ===========================
 
-We meet every week at 14:30 in the Besprechungsraum and discuss a paper
-together. One student has to prepare and lead the discussion. This does not
-require to prepare a presentation, but implies to be able to condense and
-summarize the results to the other participants.
+We meet every Tuesday at 15:00 in the Besprechungsraum and discuss a paper
+together. One student has to prepare and lead the discussion. This implies
+to prepare a presentation which condenses and summarize the results to
+the other participants. This presentation is to make sure that everybody
+understood the methods and the results well enough for discussion.
 
 "Leading the discussion" means to encourage discussion by asking questions,
 pointing to unclear or interesting parts of the paper, etc. An incomplete,
-informal "paper checklist" is provided below to help us orientate the
-discussion.
+informal "paper checklist" is provided below to help us when reading a
+paper.
 
 
-Propose a paper for discussion
+Suggest a paper for discussion
 ------------------------------
 
-Everybody is allowed (encouraged!) to propose a paper for discussion. Write
+Everybody is allowed (encouraged!) to suggest a paper for discussion. Write
 me an `email`_ with your suggestions and I will update the paper list.
 
 In principle you can submit a paper about any topic, but you should pay
@@ -26,7 +27,7 @@ attention to a couple of points:
 - without being too simple, the paper should not be overly complicated or
   addressed to an expert audience.
 
-.. _email: fabien.maussion@uibk.ac.at
+.. _email: http://fabienmaussion.info/
 
 
 Selection of the next paper
@@ -34,8 +35,8 @@ Selection of the next paper
 
 The selection procedure for the following week will follow three steps:
 
-- voluntary basis (a student asks to present a paper): this should
-  happen on Tuesday.
+- voluntary basis (a student asks to present a paper): this is the preferred
+  option. You can ask for any free Tuesday during the semester!
 - democracy: if no paper is selected on Tuesday, I will ask people to
   express their prefered paper by Thursday, and I will design the presenter.
 - tyranny: if nothing happens by Friday, I will design a paper and a presenter.
@@ -72,7 +73,6 @@ Paper checklist
 Book recommendation
 -------------------
 
-I can warmly recommend the book by Joshua Schimel: *Writing Science: How to
+I warmly recommend reading the book by Joshua Schimel: *Writing Science: How to
 Write Papers That Get Cited and Proposals That Get Funded* (Oxford
 university press).
-
