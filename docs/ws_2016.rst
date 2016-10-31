@@ -14,11 +14,11 @@ You should have received the password by mail (if not, contact me).
 Next paper
 ----------
 
-**On October 25th, Miriam is going to present the following paper:**
+**On Npvember 8th, Max is going to present the following paper:**
 
-- Sulca, J., Vuille, M., Silva, Y. and Takahashi, K.: Teleconnections between
-  the Peruvian Central Andes and Northeast Brazil during Extreme Rainfall Events
-  in Austral Summer, J. Hydrometeorol., 17(2), 499–515, 2016.
+- Insel, N., Poulsen, C. J., & Ehlers, T. a. (2010). Influence of the Andes
+Mountains on South American moisture transport, convection, and
+precipitation. Climate Dynamics, 35, 1477–1492. (Georg)
 
 Suggested papers
 ----------------
@@ -36,10 +36,6 @@ Suggested papers
 - Farinotti, D., & Huss, M. (2013). An upper-bound estimate for the accuracy
   of glacier volume-area scaling. Cryosphere, 7(6), 1707–1720. (Fabien)
 
-- Insel, N., Poulsen, C. J., & Ehlers, T. a. (2010). Influence of the Andes
-  Mountains on South American moisture transport, convection, and
-  precipitation. Climate Dynamics, 35, 1477–1492. (Georg)
-
 - Roe, G. H., Feldl, N., Armour, K. C., Hwang, Y.-T., &
   Frierson, D. M. W. (2015). The remote impacts of climate feedbacks on
   regional climate predictability. Nature Geoscience, 8(2), 135–139. (Fabien)
@@ -55,3 +51,8 @@ Suggested papers
 
 Past papers
 -----------
+
+**2016-10-25 (Miriam)**
+    Sulca, J., Vuille, M., Silva, Y. and Takahashi, K.: Teleconnections between
+    the Peruvian Central Andes and Northeast Brazil during Extreme Rainfall Events
+    in Austral Summer, J. Hydrometeorol., 17(2), 499–515, 2016.
