@@ -14,7 +14,7 @@ You should have received the password by mail (if not, contact me).
 Next paper
 ----------
 
-**On December 13th, Edoardo is going to present the following two papers:**
+**On December 13th, Edoardo is going to present the following paper:**
 
 - Farinotti, D., & Huss, M. (2013). An upper-bound estimate for the accuracy
   of glacier volume-area scaling. Cryosphere, 7(6), 1707–1720.
