@@ -14,15 +14,10 @@ You should have received the password by mail (if not, contact me).
 Next paper
 ----------
 
-**On November 29th, Daniel is going to present the following two papers:**
+**On December 13th, Edoardo is going to present the following two papers:**
 
-- Rougier, N. P., Droettboom, M. and Bourne, P. E.: Ten Simple Rules for Better
-  Figures, PLoS Comput. Biol., 10(9), e1003833, doi:10.1371/journal.pcbi.1003833,
-  2014.
-
-- Stauffer, R., Mayr, G. J., Dabernig, M. and Zeileis, A.: Somewhere over the
-  rainbow: How to make effective use of colors in meteorological visualizations,
-  Bull. Am. Meteorol. Soc., 96(2), 203–216, doi:10.1175/BAMS-D-13-00155.1, 2015.
+- Farinotti, D., & Huss, M. (2013). An upper-bound estimate for the accuracy
+  of glacier volume-area scaling. Cryosphere, 7(6), 1707–1720.
 
 Suggested papers
 ----------------
@@ -36,9 +31,6 @@ Suggested papers
 - Kerschner, H. (2000). Synoptic climatology of Eastern Alpine glacier
   behavior, 1966-1990. 26th International Conference on Alpine Meteorology,
   11-15 September 2000, (dd), 1–12. (Georg)
-
-- Farinotti, D., & Huss, M. (2013). An upper-bound estimate for the accuracy
-  of glacier volume-area scaling. Cryosphere, 7(6), 1707–1720. (Fabien)
 
 - Roe, G. H., Feldl, N., Armour, K. C., Hwang, Y.-T., &
   Frierson, D. M. W. (2015). The remote impacts of climate feedbacks on
@@ -73,3 +65,11 @@ Past papers
 **2016-11-22 (Maria)**
     Garreaud, R. (1999): Multiscale Analysis of the Summertime Precipitation over
     the Central Andes, Mon. Weather Rev., 127(5), 901-921.
+
+**2016-11-29 (Daniel)**
+    Rougier, N. P., Droettboom, M. and Bourne, P. E.: Ten Simple Rules for Better
+    Figures, PLoS Comput. Biol., 10(9), e1003833, 2014.
+
+    Stauffer, R., Mayr, G. J., Dabernig, M. and Zeileis, A.: Somewhere over the
+    rainbow: How to make effective use of colors in meteorological visualizations,
+    Bull. Am. Meteorol. Soc., 96(2), 203-216, 2015.
