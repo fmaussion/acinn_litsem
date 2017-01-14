@@ -52,28 +52,17 @@ Suggested papers
 - Themeßl, M. J., Gobiet, A., & Heinrich, G. (2011). Empirical-statistical
   downscaling and error correction of regional climate models and its impact
   on the climate change signal. Climatic Change, 112(2), 449–468. (Fabien)
-  
+
 
 Past papers
 -----------
 
-**2017-01-10 (Carolina)**
-    Koenig, L. S., Ivanoff, A., Alexander, P. M., MacGregor, J. A., Fettweis, X.,
-    Panzer, B., Paden, J. D., Forster, R. R., Das, I., McConnell, J. R.,
-    Tedesco, M., Leuschen, C. and Gogineni, P.: Annual Greenland accumulation
-    rates (2009-2012) from airborne snow radar, Cryosphere, 10(4), 1739–1752,
-    doi:10.5194/tc-10-1739-2016, 2016.
-
-**2016-12-13 (Edoardo)**
-    Farinotti, D., & Huss, M. (2013). An upper-bound estimate for the accuracy
-    of glacier volume-area scaling. Cryosphere, 7(6), 1707–1720.
-
-**2016-11-29 (Miriam)**
+**2016-10-25 (Miriam)**
     Sulca, J., Vuille, M., Silva, Y. and Takahashi, K.: Teleconnections between
     the Peruvian Central Andes and Northeast Brazil during Extreme Rainfall Events
     in Austral Summer, J. Hydrometeorol., 17(2), 499–515, 2016.
 
-**2016-11-22 (Max)**
+**2016-11-08 (Max)**
     Insel, N., Poulsen, C. J., & Ehlers, T. a. (2010). Influence of the Andes
     Mountains on South American moisture transport, convection, and
     precipitation. Climate Dynamics, 35, 1477–1492.
@@ -93,3 +82,14 @@ Past papers
     Stauffer, R., Mayr, G. J., Dabernig, M. and Zeileis, A.: Somewhere over the
     rainbow: How to make effective use of colors in meteorological visualizations,
     Bull. Am. Meteorol. Soc., 96(2), 203-216, 2015.
+
+**2016-12-13 (Edoardo)**
+    Farinotti, D., & Huss, M. (2013). An upper-bound estimate for the accuracy
+    of glacier volume-area scaling. Cryosphere, 7(6), 1707–1720.
+
+**2017-01-10 (Carolina)**
+    Koenig, L. S., Ivanoff, A., Alexander, P. M., MacGregor, J. A., Fettweis, X.,
+    Panzer, B., Paden, J. D., Forster, R. R., Das, I., McConnell, J. R.,
+    Tedesco, M., Leuschen, C. and Gogineni, P.: Annual Greenland accumulation
+    rates (2009-2012) from airborne snow radar, Cryosphere, 10(4), 1739–1752,
+    doi:10.5194/tc-10-1739-2016, 2016.
