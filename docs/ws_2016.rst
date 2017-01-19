@@ -14,12 +14,6 @@ You should have received the password by mail (if not, contact me).
 Next paper
 ----------
 
-**On January 17th, Florian is going to present the following paper:**
-
-- Roe, G. H., Baker, M. B. and Herla, F.: Centennial glacier retreat as
-  categorical evidence of regional climate change, Nat. Geosci., 1(December),
-  doi:10.1038/ngeo2863, 2016.
-
 **On January 24th, Christopher is going to present the following paper:**
 
 - Wilks, D. S.: “The Stippling Shows Statistically Significant Grid Points”:
@@ -93,3 +87,8 @@ Past papers
     Tedesco, M., Leuschen, C. and Gogineni, P.: Annual Greenland accumulation
     rates (2009-2012) from airborne snow radar, Cryosphere, 10(4), 1739–1752,
     doi:10.5194/tc-10-1739-2016, 2016.
+
+**2017-01-17 (Florian)**
+    Roe, G. H., Baker, M. B. and Herla, F.: Centennial glacier retreat as
+    categorical evidence of regional climate change, Nat. Geosci., 1(December),
+    doi:10.1038/ngeo2863, 2016.
