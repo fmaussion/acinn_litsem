@@ -1,11 +1,4 @@
 Literature seminar in Glaciology & Climatology
 ==============================================
 
-Simple webpage for the participants of the ACINN literature seminar.
-
-.. toctree::
-    :maxdepth: 1
-
-    orga
-    ss_2016
-    ws_2016
+This page has moved to `https://acinn-litsem.github.io/ <https://acinn-litsem.github.io/>`_!
